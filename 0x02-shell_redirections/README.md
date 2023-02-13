@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 22: Displaying users and directories
+This is a project for shell redirections, task 23: Finding empty files and directories

@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 3: What about 2
+This is a project for shell redirections, task 4: Last lines of a file

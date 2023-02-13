@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 23: Finding empty files and directories
+This is a project for shell redirections, task 24: Files with gif extension

@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 11: Counting dir. and subdir.
+This is a project for shell redirections, task 12: Newest files in current dir.

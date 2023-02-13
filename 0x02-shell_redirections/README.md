@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 13: Unique
+This is a project for shell redirections, task 14: Display lines in the file

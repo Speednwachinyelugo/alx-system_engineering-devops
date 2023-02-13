@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 8: Save current state of directory
+This is a project for shell redirections, task 9: Duplicate last line

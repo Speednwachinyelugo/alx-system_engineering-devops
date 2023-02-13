@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 12: Newest files in current dir.
+This is a project for shell redirections, task 13: Unique

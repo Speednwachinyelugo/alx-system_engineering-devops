@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 18: Displaying lines that start with a lettert
+This is a project for shell redirections, task 19: Replacing characters

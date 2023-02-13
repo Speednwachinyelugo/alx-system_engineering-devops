@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 10: No more .js files
+This is a project for shell redirections, task 11: Counting dir. and subdir.

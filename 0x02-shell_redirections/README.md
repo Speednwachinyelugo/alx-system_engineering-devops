@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 21: Reverse input
+This is a project for shell redirections, task 22: Displaying users and directories

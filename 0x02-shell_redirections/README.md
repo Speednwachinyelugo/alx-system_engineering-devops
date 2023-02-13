@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 17: Displaying lines that do not contain pattern 'bin'
+This is a project for shell redirections, task 18: Displaying lines that start with a lettert

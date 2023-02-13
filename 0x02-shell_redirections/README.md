@@ -1,1 +1,1 @@
-This is a project for shell redirections, task 20: Removing letters from input
+This is a project for shell redirections, task 21: Reverse input

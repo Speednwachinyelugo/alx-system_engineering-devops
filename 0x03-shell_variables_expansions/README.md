@@ -1,1 +1,1 @@
-New Local Variable
+New Global Variable

@@ -1,1 +1,1 @@
-Directories in the path
+Environment Variables

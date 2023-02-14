@@ -1,1 +1,1 @@
-Action path
+Directories in the path

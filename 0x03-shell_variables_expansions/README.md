@@ -1,1 +1,1 @@
-Add water and stir
+Global variable
